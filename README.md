@@ -24,8 +24,9 @@ Users can:
 ## **Screenshots**
 
 ### Main Screen (Task List)
-<!-- Main Screen --> <p align="center"> <img src="screenshots/Screenshot 2026-03-02 182042.png" width="200" alt="Main Screen"/> </p> <!-- Add/Edit Task Screen --> <p align="center">
-
+<p align="center">
+  <img src="https://github.com/AmadaKalubowila/SEN4302_14633_TaskManager/raw/develop/screenshots/Screenshot%202026-03-02%20182042.png" width="200" alt="Main Screen"/>
+</p>
 
 ### Add/Edit Task Screen
 ![Add/Edit Task](screenshots/Screenshot 2026-03-02 182025.png)
