@@ -24,16 +24,16 @@ Users can:
 ## **Screenshots**
 
 ### Main Screen (Task List)
-![Main Screen](screenshots/)
+![Main Screen](screenshots/Screenshot 2026-03-02 182042.png)
 
 ### Add/Edit Task Screen
-![Add/Edit Task](screenshots/add_edit_task.png)
+![Add/Edit Task](screenshots/Screenshot 2026-03-02 182025.png)
 
 ### Task Completed Example
-![Task Completed](screenshots/task_completed.png)
+![Task Completed](screenshots/Screenshot 2026-03-02 181833.png)
 
 ### Swipe to Delete Task
-![Swipe Delete](screenshots/swipe_delete.png)
+![Swipe Delete](screenshots/Screenshot 2026-03-02 181819.png)
 ---
 
 ## **Design Choices**
