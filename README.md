@@ -23,18 +23,25 @@ Users can:
 
 ## Screenshots
 
-### Main Screen
-![Main Screen](screenshots/image1.png)
+### Main Screen (Task List)
+<p align="center">
+  <img src="https://github.com/AmadaKalubowila/SEN4302_14633_TaskManager/blob/develop/screenshots/image1.png" width="200" alt="Main Screen"/>
+</p>
 
 ### Add/Edit Task Screen
-![Add/Edit Task Screen](screenshots/image4.png)
+<p align="center">
+  <img src="https://github.com/AmadaKalubowila/SEN4302_14633_TaskManager/blob/develop/screenshots/image4.png" width="200" alt="Main Screen"/>
+</p>
 
 ### Task Completed Example
-![Task Completed Example](screenshots/image3.png)
+<p align="center">
+  <img src="https://github.com/AmadaKalubowila/SEN4302_14633_TaskManager/blob/develop/screenshots/image3.png" width="200" alt="Main Screen"/>
+</p>
 
 ### Add Task Screen
-![Add Task Screen](screenshots/image2.png)
-
+<p align="center">
+  <img src="https://github.com/AmadaKalubowila/SEN4302_14633_TaskManager/blob/develop/screenshots/image2.png" width="200" alt="Main Screen"/>
+</p>
 ---
 
 ## Design Choices
