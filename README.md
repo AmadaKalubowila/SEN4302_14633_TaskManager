@@ -1,6 +1,6 @@
 # SEN4302_14633_TaskManager
 
-## **App Description**
+## App Description
 
 The Task Manager App is a simple Android application that allows users to **create, view, edit, and manage personal tasks/notes**. The app demonstrates:
 
@@ -15,56 +15,50 @@ Users can:
 - Add new tasks with a title and optional description
 - View a list of tasks in a **RecyclerView**
 - Mark tasks as completed using a checkbox
-- Edit task (**user have to click on exixting task to edit**)
-- Delete tasks(**user have to swipe task card**)
+- Edit a task (**click on an existing task to edit**)
+- Delete tasks (**swipe task card**)
 - Retain data after app restarts
 
-
-
-## **Screenshots**
-
-### Main Screen (Task List)
-<p align="center">
-  <img src="https://github.com/AmadaKalubowila/SEN4302_14633_TaskManager/blob/develop/screenshots/Screenshot%202026-03-02%20181819.png" width="200" alt="Main Screen"/>
-</p>
-
-### Add/Edit Task Screen
-<p align="center">
-  <img src="https://github.com/AmadaKalubowila/SEN4302_14633_TaskManager/blob/develop/screenshots/Screenshot%202026-03-02%20182042.png" width="200" alt="Main Screen"/>
-</p>
-
-### Task Completed Example
-<p align="center">
-  <img src="https://github.com/AmadaKalubowila/SEN4302_14633_TaskManager/blob/develop/screenshots/Screenshot%202026-03-02%20182025.png" width="200" alt="Main Screen"/>
-</p>
-
-### Add Task Screen
-<p align="center">
-  <img src="https://github.com/AmadaKalubowila/SEN4302_14633_TaskManager/blob/develop/screenshots/Screenshot%202026-03-02%20181833.png" width="200" alt="Main Screen"/>
-</p>
 ---
 
-## **Design Choices**
+## Screenshots
 
-- **Architecture:** MVVM (Model-View-ViewModel) for separation of concerns and state management  
-- **Data Persistence:** Room (SQLite abstraction) used to store tasks locally, ensuring tasks persist across app restarts  
-- **UI Design:** Material Design guidelines with consistent colors, proper spacing, and clear labels  
-- **State Management:** ViewModel used to preserve unsaved text on screen rotations  
-- **Secure Coding Practices:** 
-  - Input validation to prevent invalid or empty tasks  
-  - Avoided hard-coded sensitive information and ensured local data storage security  
+### Main Screen
+![Main Screen](screenshots/image1.png)
 
+### Add/Edit Task Screen
+![Add/Edit Task Screen](screenshots/image4.png)
 
-## **Technical Details**
+### Task Completed Example
+![Task Completed Example](screenshots/image3.png)
 
-- **Minimum SDK:** 26  
-- **Dependencies:** AndroidX, Material Design Components, Room  
-- **Offline Usage:** No internet required, all data stored locally  
+### Add Task Screen
+![Add Task Screen](screenshots/image2.png)
+
+---
+
+## Design Choices
+
+- **Architecture:** MVVM (Model-View-ViewModel)
+- **Data Persistence:** Room (SQLite abstraction)
+- **UI Design:** Material Design guidelines with consistent colors, proper spacing, and clear labels
+- **State Management:** ViewModel preserves unsaved text on screen rotations
+- **Secure Coding Practices:**
+    - Input validation to prevent invalid or empty tasks
+    - Avoided hard-coded sensitive information
+
+---
+
+## Technical Details
+
+- **Minimum SDK:** 26
+- **Dependencies:** AndroidX, Material Design Components, Room
+- **Offline Usage:** No internet required, all data stored locally
 - **IDE:** Android Studio
 
 ---
 
-## **Installation & Usage**
+## Installation & Usage
 
 1. Clone the repository:
 
