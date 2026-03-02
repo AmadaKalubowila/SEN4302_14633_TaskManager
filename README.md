@@ -25,17 +25,23 @@ Users can:
 
 ### Main Screen (Task List)
 <p align="center">
-  <img src="https://github.com/AmadaKalubowila/SEN4302_14633_TaskManager/raw/develop/screenshots/Screenshot%202026-03-02%20182042.png" width="200" alt="Main Screen"/>
+  <img src="https://github.com/AmadaKalubowila/SEN4302_14633_TaskManager/blob/develop/screenshots/Screenshot%202026-03-02%20181819.png" width="200" alt="Main Screen"/>
 </p>
 
 ### Add/Edit Task Screen
-![Add/Edit Task](screenshots/Screenshot 2026-03-02 182025.png)
+<p align="center">
+  <img src="https://github.com/AmadaKalubowila/SEN4302_14633_TaskManager/blob/develop/screenshots/Screenshot%202026-03-02%20182042.png" width="200" alt="Main Screen"/>
+</p>
 
 ### Task Completed Example
-![Task Completed](screenshots/Screenshot 2026-03-02 181833.png)
+<p align="center">
+  <img src="https://github.com/AmadaKalubowila/SEN4302_14633_TaskManager/blob/develop/screenshots/Screenshot%202026-03-02%20182025.png" width="200" alt="Main Screen"/>
+</p>
 
-### Swipe to Delete Task
-![Swipe Delete](screenshots/Screenshot 2026-03-02 181819.png)
+### Add Task Screen
+<p align="center">
+  <img src="https://github.com/AmadaKalubowila/SEN4302_14633_TaskManager/blob/develop/screenshots/Screenshot%202026-03-02%20181833.png" width="200" alt="Main Screen"/>
+</p>
 ---
 
 ## **Design Choices**
