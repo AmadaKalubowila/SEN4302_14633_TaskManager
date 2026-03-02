@@ -19,7 +19,7 @@ Users can:
 - Delete tasks(**user have to swipe task card**)
 - Retain data after app restarts
 
----
+
 
 ## **Screenshots**
 
