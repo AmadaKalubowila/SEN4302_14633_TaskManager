@@ -24,14 +24,16 @@ Users can:
 ## **Screenshots**
 
 ### Main Screen (Task List)
-<img width="150" height="400" alt="Screenshot 2025-12-04 162149" src="https://github.com/user-attachments/assets/c8fde291-3539-45b2-8d18-18718ddb0466" />
+![Main Screen](screenshots/)
 
 ### Add/Edit Task Screen
-<img width="150" height="400" alt="Screenshot 2025-12-04 162149" src="https://github.com/user-attachments/assets/c8fde291-3539-45b2-8d18-18718ddb0466" />
+![Add/Edit Task](screenshots/add_edit_task.png)
 
 ### Task Completed Example
-<img width="150" height="400" alt="Screenshot 2025-12-04 162149" src="https://github.com/user-attachments/assets/c8fde291-3539-45b2-8d18-18718ddb0466" />
+![Task Completed](screenshots/task_completed.png)
 
+### Swipe to Delete Task
+![Swipe Delete](screenshots/swipe_delete.png)
 ---
 
 ## **Design Choices**
