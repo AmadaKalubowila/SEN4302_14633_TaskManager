@@ -25,22 +25,22 @@ Users can:
 
 ### Main Screen (Task List)
 <p align="center">
-  <img src="https://github.com/AmadaKalubowila/SEN4302_14633_TaskManager/blob/develop/screenshots/Screenshot%202026-03-02%20181819.png" width="200" alt="Main Screen"/>
+  <img src="https://github.com/AmadaKalubowila/SEN4302_14633_TaskManager/blob/develop/screenshots/image1.png" width="200" alt="Main Screen"/>
 </p>
 
 ### Add/Edit Task Screen
 <p align="center">
-  <img src="https://github.com/AmadaKalubowila/SEN4302_14633_TaskManager/blob/develop/screenshots/Screenshot%202026-03-02%20182042.png" width="200" alt="Main Screen"/>
+  <img src="https://github.com/AmadaKalubowila/SEN4302_14633_TaskManager/blob/develop/screenshots/image4.png" width="200" alt="Main Screen"/>
 </p>
 
 ### Task Completed Example
 <p align="center">
-  <img src="https://github.com/AmadaKalubowila/SEN4302_14633_TaskManager/blob/develop/screenshots/Screenshot%202026-03-02%20182025.png" width="200" alt="Main Screen"/>
+  <img src="https://github.com/AmadaKalubowila/SEN4302_14633_TaskManager/blob/develop/screenshots/image3.png" width="200" alt="Main Screen"/>
 </p>
 
 ### Add Task Screen
 <p align="center">
-  <img src="https://github.com/AmadaKalubowila/SEN4302_14633_TaskManager/blob/develop/screenshots/Screenshot%202026-03-02%20181833.png" width="200" alt="Main Screen"/>
+  <img src="https://github.com/AmadaKalubowila/SEN4302_14633_TaskManager/blob/develop/screenshots/image2.png" width="200" alt="Main Screen"/>
 </p>
 ---
 
