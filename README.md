@@ -24,7 +24,7 @@ Users can:
 ## **Screenshots**
 
 ### Main Screen (Task List)
-![Main Screen](screenshots/Screenshot 2026-03-02 182042.png)
+<!-- Main Screen --> <p align="center"> <img src="screenshots/Screenshot 2026-03-02 182042.png" width="200" alt="Main Screen"/> </p> <!-- Add/Edit Task Screen --> <p align="center">
 
 
 ### Add/Edit Task Screen
