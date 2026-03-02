@@ -26,6 +26,7 @@ Users can:
 ### Main Screen (Task List)
 ![Main Screen](screenshots/Screenshot 2026-03-02 182042.png)
 
+
 ### Add/Edit Task Screen
 ![Add/Edit Task](screenshots/Screenshot 2026-03-02 182025.png)
 
